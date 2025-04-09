@@ -831,7 +831,7 @@ def printValue(s1,s2):
     else:
         print(s1)
         print(s2)
-        
+Let us assume the following comma separated input sequence is given to the program fix:
 printValue("one","three")
 
 ```
